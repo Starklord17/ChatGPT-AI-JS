@@ -6,3 +6,7 @@ Most capable GPT-3 model. Can do any task the other models can do, often with hi
 Training data: Up to Jun 2021
 
 [OpenAI API](https://openai.com/api/)
+
+## Deploy
+
+https://davincicodex.vercel.app/
