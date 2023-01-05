@@ -1,4 +1,4 @@
-// setup and configuration to be able to call OpenAI API
+// Setup and configuration to be able to call OpenAI API
 import express from "express";
 import * as dotenv from "dotenv";
 import cors from "cors";
